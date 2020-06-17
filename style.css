@@ -1,0 +1,93 @@
+body{
+	background-color:#494646
+}
+
+.button1 {
+  background-color: #777575; 
+  border: 2px solid #3AF5CF;
+  color: #000000;
+  padding: 15px 32px;
+  border-radius: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  position:absolute;
+    transition: .5s ease;
+    top: 45%;
+    left: 35%;
+	width:124px;
+	height:114.5px;
+	
+  }
+ .button2 {
+  background-color: #777575; 
+  border: 2px solid #3AF5CF;
+  border-radius: 12px;
+  color: #000000;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  position:absolute;
+    transition: .5s ease;
+    top: 45%;
+    left: 55%;
+	width:124px;
+	height:114.5px;
+  }
+   .button3 {
+  background-color:#777575; 
+  border:2px solid #3AF5CF;
+  border-radius: 12px;
+  color: #000000;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  position:absolute;
+    transition: .5s ease;
+    top: 28%;
+    left: 45%;
+	width:124px;
+	height:114.5px;
+  }
+   .button4 {
+  background-color:#777575; 
+  border:2px solid #3AF5CF;
+  border-radius: 12px;
+  color: #000000;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  position:absolute;
+    transition: .5s ease;
+    top: 63%;
+    left: 45%;
+	width:124px;
+	height:114.5px;
+  }
+  .onOff{
+	   background-color:#3A3939; 
+  border:2px solid #3AF5CF;
+  border-radius: 50px;
+  color: #000000;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  position:absolute;
+    transition: .5s ease;
+    top: 46.5%;
+    left: 45.5%;
+	width:107px;
+	height:107px;
+  }
+  button:hover {
+  background-color: #3AF5CF;
+}
